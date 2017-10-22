@@ -1,1 +1,1 @@
-print('dit is een test')
+print('test')
